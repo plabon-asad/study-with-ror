@@ -10,6 +10,14 @@ Study for self development to be a ROR developer.
 | `gem list rails --local` | Check local installed version |
 | `rails --help` | Rails help command |
 | `rails _version_ new application_name` | Make a new project |
+
+### Redis - Install
+I had the same issue and the steps I used to solve this in Mac OSX were:
+ - Install redis (if not installed) `brew install redis`
+ - Start the redis server, goto terminal and run `redis-server`
+ 
+Or to start in background *By default Redis does not run as a daemon. Use 'yes' to use it*
+`redis-server --daemonize yes` [Link here](https://stackoverflow.com/questions/36155607/error-connecting-to-redis-on-127-0-0-16379-errnoeconnrefused-wercker)
  
 
 ### Problem (Issue)
