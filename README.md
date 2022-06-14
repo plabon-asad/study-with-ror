@@ -10,6 +10,7 @@ Study for self development to be a ROR developer.
 | `gem list rails --local` | Check local installed version |
 | `rails --help` | Rails help command |
 | `rails _version_ new application_name` | Make a new project |
+| `bundle pristine` | Restores installed gems to their pristine condition [Link here](https://bundler.io/man/bundle-pristine.1.html) |
 
 ### Redis - Install
 I had the same issue and the steps I used to solve this in Mac OSX were:
