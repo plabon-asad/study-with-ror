@@ -3,7 +3,8 @@ Study for self development to be a ROR developer.
 
 # Check Rails Local Status
 
-👉 [Check all available version of Rails](https://rubygems.org/gems/rails/versions)
+👉 [Check all available version of Rails](https://rubygems.org/gems/rails/versions)<br>
+👉 [Rails simple commands](https://dev.to/fromwentzitcame/your-go-to-rails-command-line-cheat-sheet-1ok7)
 
 | Command | Description |
 | ------ | ------ |
