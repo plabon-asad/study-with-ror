@@ -1,6 +1,11 @@
 # Study with RoR
 Study for self development to be a ROR developer.
 
+| Link | Description |
+| ------ | ------ |
+| [See here](https://github.com/rubocop/ruby-style-guide) | How to write Ruby code like best-style-guide |
+
+
 # Check Rails Local Status
 
 👉 [Check all available version of Rails](https://rubygems.org/gems/rails/versions)<br>
