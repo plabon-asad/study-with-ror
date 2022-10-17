@@ -48,7 +48,11 @@ Try to run `gem install bundler` then run `bundle`. And if everything get good t
 | [Spree Extensions directory](https://github.com/spree-contrib) | Officially supported 3rd party integrations & plugins for @spree | ✅ Spree 4.4 |
 | [Spree comments](https://github.com/cloudsailor/spree_comments) | Add commenting to orders / shipments | ❎ Spree 4.4 |
 
+# Sharetribe-Go Config
 
+| Link | Description | Solution |
+| ------ | ------ | ------ |
+| [ssl issue](https://www.youtube.com/watch?v=h-fsegheiTI) | After `bundle install` facing `ssl` issue to fetching gems from rubyorg by https | Add `gem 'certified'`in gemfile then run `bundle install` |
 
 
 N.B. You can use it for better documenting. Just **copy** & **paste** <br> ⛑️ 🐝 ⭐ ✅ ❎ ❌ 🚫 ⁉️ 🔔 🔕 🔸 🔹 ‼️  ✏️ 📌 📍 📎 📗 📕 📙 🍕 👉 👍 👎 
