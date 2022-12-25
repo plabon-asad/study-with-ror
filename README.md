@@ -4,6 +4,7 @@ Study for self development to be a ROR developer.
 | Link | Description |
 | ------ | ------ |
 | [See here](https://github.com/rubocop/ruby-style-guide) | How to write Ruby code like best-style-guide |
+| [See here](https://github.com/cdrrazan/awesome-ROR-interview-questions) | Ruby and RoR Interview Questions |
 
 
 # Check Rails Local Status
