@@ -19,6 +19,10 @@ Study for self development to be a ROR developer.
 | `rails _version_ new application_name` | Make a new project |
 | `bundle pristine` | Restores installed gems to their pristine condition [Link here](https://bundler.io/man/bundle-pristine.1.html) |
 
+### Roadmap - 2023
+ - [Learn Ruby](https://www.ruby-lang.org/en/documentation/quickstart/)
+ - [Learn RoR](https://guides.rubyonrails.org/getting_started.html)
+
 ### Redis - Install
 I had the same issue and the steps I used to solve this in Mac OSX were:
  - Install redis (if not installed) `brew install redis`
